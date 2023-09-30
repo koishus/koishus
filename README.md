@@ -5,6 +5,6 @@ The projects I want to upload will be...
 * Programming languages: Python, R 🧮
 * Creating visual and self-explainatory dashboards 📊
 * Overall practicing and mantaining skills so I don't get rusty 💪
-
+* Maybe some weird tests trying things out! 💀
 Let's hope this repo doesn't die! 🙏
 
